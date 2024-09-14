@@ -1,0 +1,39 @@
+{
+    "spritesheet": "holdCover", // spritesheet
+
+    /*
+     * order of hold splashes
+     * MUST BE IN AFTER YOUR SPRITESHEETS' NAMES!!
+    */
+    "holdAnimations":[
+        "Purple", "Blue", "Green", "Red", "Purple", "Blue", "Green", "Red"
+    ],
+
+    "antialiasing": true, // set to false for more pixely sprites
+
+    // scale for your hold splashes
+    "scale":{
+        "x": 1,
+        "y": 1
+    },
+
+    "alpha": 1, // transparency of your sustain splashes (goes from 0 to 1)
+
+    "endDelay": 15, // int till end animation plays
+    "timeTillDisappear": 0.325, // time till end animation disappears
+    "dadHoldSustains": true, // set to false to remove hold sustains from opponent
+
+    "xPos": -105, // x position for ALL hold sustains
+    "yPos":{
+        "upscroll": -100, // y position for upscroll for ALL hold sustains
+        "downscroll": -195 // y position for downscroll for ALL hold sustains
+    },
+
+    /*
+     * ints the hold splashes start at when being held
+     * goes from purple, blue, green, and red
+    */
+    "holdDurations":[
+        0, 0, 0, 0
+    ]
+}
