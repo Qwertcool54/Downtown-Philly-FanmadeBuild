@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="41" y="240" sprite="hank" camx="180.6" camy="68.7" icon="hank" color="#16162C" holdTime="2.2">
+	<anim name="idle" anim="Hank Idle" x="0" y="0" fps="18" loop="false"/>
+	<anim name="idle-loop" anim="Hank Idle" x="0" y="0" fps="18" loop="true" indices="5..7"/>
+	<anim name="singUP" anim="Hank Up note" x="7" y="-11" fps="18" loop="false"/>
+	<anim name="singUP-loop" anim="Hank Up note" x="7" y="-11" fps="18" loop="true" indices="2..4"/>
+	<anim name="singLEFT" anim="Hank Left Note" x="328" y="-54" fps="30" loop="false"/>
+	<anim name="singLEFT-loop" anim="Hank Left Note" x="328" y="-54" fps="30" loop="true" indices="3..6"/>
+	<anim name="singRIGHT" anim="Hank right note" x="98" y="-46" fps="18" loop="false"/>
+	<anim name="singRIGHT-loop" anim="Hank right note" x="98" y="-46" fps="18" loop="true" indices="2..4"/>
+	<anim name="singDOWN" anim="Hank Down Note" x="86" y="-116" fps="19" loop="false"/>
+	<anim name="singDOWN-loop" anim="Hank Down Note" x="86" y="-116" fps="19" loop="true" indices="2..4"/>
+</character>

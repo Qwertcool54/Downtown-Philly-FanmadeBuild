@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"DOWNTOWN-PHILLY"
+	],
+	"needsVoices": true,
+	"parsedColor": -15329748,
+	"displayName": "lock-jaw",
+	"icon": "hank",
+	"name": "lock-jaw",
+	"color": "#16162C",
+	"customValues": {}
+}

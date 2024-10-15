@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="1000" folder="stages/nevada/" startCamPosY="600" name="nevada" zoom="0.69">
+	<sprite x="-345" scrolly="0.1" sprite="NevadaSky" y="-425" scale="1.16" name="sky" scrollx="0.1"/>
+	<sprite x="1173" scrolly="0.5" sprite="NevadaRightCliff" y="-246" name="cliffright" scrollx="0.5"/>
+	<sprite x="-550" name="cliffsleft" sprite="NevadaLeftCliff" y="-213"/>
+	<sprite x="-246" sprite="NevadaGround" y="498" scale="1.45" name="ground"/>
+	<sprite x="1160" scrolly="1.35" sprite="NevadaHotdog" y="476" scale="1.25" name="hotdog" scrollx="1.38"/>
+	<sprite x="-776" name="rock" sprite="The Rock" y="704"/>
+	<girlfriend camxoffset="-50" x="205" camyoffset="-95" y="-55"/>
+	<dad x="-90" y="-85"/>
+	<boyfriend camxoffset="-210.4" x="814" camyoffset="0.71" y="-67"/>
+	<combo x="733" y="86"/>
+</stage>

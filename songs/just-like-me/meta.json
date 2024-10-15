@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 107,
+	"difficulties": [
+		"DOWNTOWN-PHILLY"
+	],
+	"needsVoices": false,
+	"parsedColor": -1573048,
+	"displayName": "just-like-me",
+	"icon": "beta",
+	"name": "just-like-me",
+	"color": "#E7FF48",
+	"customValues": {}
+}
