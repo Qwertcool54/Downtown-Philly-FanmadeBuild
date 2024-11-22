@@ -6,13 +6,14 @@
 	"bpm": 175,
 	"difficulties": [
 		"HARD",
-		"NORMAL"
+		"NORMAL",
+		"ALT"
 	],
 	"needsVoices": true,
-	"parsedColor": -7179779,
+	"parsedColor": -4728747,
 	"displayName": "blammed-downtown-philly",
 	"icon": "pico",
 	"name": "blammed-downtown-philly",
-	"color": "#9271FD",
+	"color": "#B7D855",
 	"customValues": {}
 }

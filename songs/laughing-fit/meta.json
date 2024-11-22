@@ -5,7 +5,8 @@
 	"stepsPerBeat": 4,
 	"bpm": 100,
 	"difficulties": [
-		"DOWNTOWN-PHILLY"
+		"DOWNTOWN-PHILLY",
+		"ALT"
 	],
 	"needsVoices": true,
 	"parsedColor": -13579316,

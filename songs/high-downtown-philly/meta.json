@@ -6,7 +6,8 @@
 	"bpm": 134,
 	"difficulties": [
 		"HARD",
-		"NORMAL"
+		"NORMAL",
+		"ALT"
 	],
 	"needsVoices": true,
 	"parsedColor": -167513,

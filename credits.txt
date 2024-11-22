@@ -1,4 +1,4 @@
-Port - by me
+Fanmade Build - by me
 
 Special thanks:
 new old anaimation - idk, but this from matio madness v2 port
@@ -11,3 +11,9 @@ OG DownTown Philly Devs - make songs
 accelerant hank assets - from https://github.com/AppleHair/HankPsychPort/releases
 Weekend 1 Assets - from https://github.com/FNF-CNE-Devs/V-Slice-Modpack/tree/main
 smooth health bar - by mlaofmd
+camera folllow - by sandpaperbutbetter
+health drain - by gla90l
+too invert (too silly) - from Soulless DX
+icon bop - by supergaymario
+opponent strums script - by supergaymario
+Invert Billy (Silly Billy) -  from Hit SIngle

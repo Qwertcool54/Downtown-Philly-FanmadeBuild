@@ -6,13 +6,14 @@
 	"bpm": 125,
 	"difficulties": [
 		"HARD",
-		"NORMAL"
+		"NORMAL",
+		"ALT"
 	],
 	"needsVoices": false,
-	"parsedColor": -7376387,
+	"parsedColor": -21905,
 	"displayName": "roses-downtown-philly",
 	"icon": "senpai",
 	"name": "roses-downtown-philly",
-	"color": "#8F71FD",
+	"color": "#FFAA6F",
 	"customValues": {}
 }

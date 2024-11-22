@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="1000" folder="stages/bary-stage/" startCamPosY="600" name="bary-stage" zoom="0.68">
+	<sprite x="-1519" sprite="alley" y="-1009" scale="0.6" name="bg"/>
+	<sprite x="-1437" sprite="cars" y="-1036" scale="0.6" name="cars"/>
+	<girlfriend x="300" y="0"/>
+	<dad y="-50"/>
+	<boyfriend x="650" y="0"/>
+	<combo x="912" y="180"/>
+</stage>
