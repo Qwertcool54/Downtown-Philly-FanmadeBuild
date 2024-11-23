@@ -1,19 +1,14 @@
 Fanmade Build - by me
 
 Special thanks:
-new old anaimation - idk, but this from matio madness v2 port
+new hold - from mario madness v2 cne port
 result screen from fnf 0.3.x - by betpowo
-hold splash - by supergaymario
+hold splash - supergaymario
 charts (and some assets) - from https://gamebanana.com/mods/466028 and https://gamebanana.com/mods/486635
-base game hud - by bambamlolmao
+c-slice - by swordcube.gov
 TimeBar - from https://gamebanana.com/tools/16673
 OG DownTown Philly Devs - make songs
 accelerant hank assets - from https://github.com/AppleHair/HankPsychPort/releases
 Weekend 1 Assets - from https://github.com/FNF-CNE-Devs/V-Slice-Modpack/tree/main
-smooth health bar - by mlaofmd
 camera folllow - by sandpaperbutbetter
 health drain - by gla90l
-too invert (too silly) - from Soulless DX
-icon bop - by supergaymario
-opponent strums script - by supergaymario
-Invert Billy (Silly Billy) -  from Hit SIngle

@@ -11,6 +11,12 @@ public var holdJSON:String = "default";
 
 public var sustainData:Array = Json.parse(Assets.getText(Paths.json('splashes/hold/' + holdJSON)));
 
+function postCreate()
+    if (PlayState.instance.opponentMode){
+        playerStrumline = 0;
+        opponentStrumline = 1;
+    }
+
 function onPostStrumCreation(){
     for (i in 0...8){
         holdSplash = new FlxSprite();

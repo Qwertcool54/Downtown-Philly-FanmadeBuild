@@ -1,0 +1,21 @@
+import flixel.util.FlxStringUtil;
+
+function postCreate() {
+    scoreTxt.fieldWidth = 0;
+    scoreTxt.antialiasing = true;
+
+    scoreTxt.x = healthBarBG.x + healthBarBG.width - 190;
+    scoreTxt.y = healthBarBG.y + (downscroll ? -30 : 30);
+
+    accuracyTxt.kill();
+    missesTxt.kill();
+
+    if(downscroll) {
+        for(o in [healthBarBG, healthBar, iconP2, iconP1, scoreTxt])
+            o.y -= 20;
+    }
+}
+
+function postUpdate(elapsed) {
+    scoreTxt.text = "Score: " + FlxStringUtil.formatMoney(songScore, false, true);
+}

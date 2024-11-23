@@ -1,0 +1,24 @@
+function onCountdown(e) {
+    switch(e.spritePath) {
+        case "game/ready", "game/set", "game/go":
+            e.scale = 1;
+    }
+}
+
+function onPostCountdown(e) {
+    if(e.sprite == null)
+        return;
+
+    if(e.spriteTween != null)
+        e.spriteTween.cancel();
+
+    var spr = e.sprite;
+    e.spriteTween = FlxTween.tween(e.sprite, {alpha: 0}, Conductor.crochet / 1000, {
+        ease: FlxEase.cubeInOut,
+        onComplete: (_) -> {
+            spr.destroy();
+            remove(spr, true);
+        }
+    });
+    spr.cameras = [camHUD];
+}

@@ -1,0 +1,5 @@
+function onPlayerHit(e) {
+    var diff:Float = FlxMath.bound(Math.abs(Conductor.songPosition - e.note.strumTime), 5.0, 160.0);
+    var factor:Float = 1.0 - (1.0 / (1.0 + Math.exp(-0.080 * (diff - 54.99))));
+    e.score = Std.int(500.0 * factor + 9.0);
+}

@@ -1,0 +1,48 @@
+var holdMap:Map<StrumLine, Array<HoldData>>;
+
+function postCreate() {
+    holdMap = [cpu => [null, null, null, null]];
+}
+
+function update(elapsed) {
+    for(strumLine => holdList in holdMap) {
+        for(i in 0...holdList.length) {
+            var holdData:HoldData = holdList[i];
+            if(holdData == null || holdData.cpu)
+                continue;
+
+            if(Conductor.songPosition >= holdData.timer) {
+                var strum:Strum = strumLine.members[i];
+                strum.playAnim("pressed", true);
+                holdData.timer = Math.POSITIVE_INFINITY;
+            }
+        }
+    }
+}
+
+function onNoteHit(e) {
+    var holdList:Array<Float> = holdMap.get(e.note.strumLine);
+    
+    var sLen:Float = -Conductor.stepCrochet;
+    var nextSustain:Note = e.note.nextNote;
+    while(nextSustain != null) {
+        sLen += nextSustain.sustainLength;
+        nextSustain = nextSustain.nextSustain;
+    }
+    if(sLen <= 200)
+        sLen = 200;
+    
+    if(holdMap.get(e.note.strumLine) == null)
+        holdMap.set(e.note.strumLine, [null, null, null, null]);
+
+    var holdList:Array<Float> = holdMap.get(e.note.strumLine);
+    if(holdList[e.note.noteData] == null) {
+        holdList[e.note.noteData] = {
+            cpu: false,
+            timer: Math.POSITIVE_INFINITY
+        };
+    }
+    var holdData:HoldData = holdList[e.note.noteData];
+    holdData.cpu = e.note.strumLine.cpu;
+    holdData.timer = Conductor.songPosition + sLen;
+}
