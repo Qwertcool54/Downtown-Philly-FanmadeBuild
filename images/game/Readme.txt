@@ -1,1 +1,0 @@
-Here you'll put your cutscenes (in game), custom note, custom splashes, etc.

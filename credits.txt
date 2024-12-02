@@ -1,14 +1,13 @@
-Fanmade Build - by me
+Mod - by me
 
 Special thanks:
-new hold - from mario madness v2 cne port
-result screen from fnf 0.3.x - by betpowo
-hold splash - supergaymario
-charts (and some assets) - from https://gamebanana.com/mods/466028 and https://gamebanana.com/mods/486635
-c-slice - by swordcube.gov
-TimeBar - from https://gamebanana.com/tools/16673
-OG DownTown Philly Devs - make songs
-accelerant hank assets - from https://github.com/AppleHair/HankPsychPort/releases
-Weekend 1 Assets - from https://github.com/FNF-CNE-Devs/V-Slice-Modpack/tree/main
-camera folllow - by sandpaperbutbetter
+new hold anaimation - idk, but this from matio madness v2 port
+smooth health bar, icon bop, opponent strums script, new input system (forever engine) - by supergaymario
+camera folllow - by bromaster819
 health drain - by gla90l
+Invert Billy (Silly Billy) -  from Hit SIngle
+window title script - by hifish🍉
+winning bf icon - from os engine
+change noteskin event - by unplugged_computer
+eye to invert (eye to eye) - by MarStarBro
+Week 3 Song's and Assets - Funkin' Crew

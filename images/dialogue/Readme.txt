@@ -1,1 +1,0 @@
-Here you'll put your dialogue stuff like custom dialogue boxes, custom character dialogue images, stuff like that.

@@ -2,3 +2,4 @@
 freeplay
 options
 credits
+donate

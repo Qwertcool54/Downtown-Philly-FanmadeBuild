@@ -1,1 +1,0 @@
-Here you'll put your custom characters for the storymode view.

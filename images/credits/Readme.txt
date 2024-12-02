@@ -1,1 +1,0 @@
-Here you'll put your credit icons.
