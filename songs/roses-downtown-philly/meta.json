@@ -1,0 +1,19 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 125,
+	"difficulties": [
+		"HARD",
+		"NORMAL",
+		"ALT"
+	],
+	"needsVoices": false,
+	"parsedColor": -21905,
+	"displayName": "roses-downtown-philly",
+	"icon": "senpai",
+	"name": "roses-downtown-philly",
+	"color": "#FFAA6F",
+	"customValues": {}
+}

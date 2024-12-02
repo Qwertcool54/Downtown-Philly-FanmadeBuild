@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"DOWNTOWN-PHILLY"
+	],
+	"needsVoices": true,
+	"parsedColor": -9347410,
+	"displayName": "darnell",
+	"icon": "darnell",
+	"name": "darnell",
+	"color": "#715EAE",
+	"customValues": {}
+}

@@ -1,0 +1,18 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"DOWNTOWN-PHILLY",
+		"ALT"
+	],
+	"needsVoices": true,
+	"parsedColor": -13579316,
+	"displayName": "laughing-fit",
+	"icon": "miku",
+	"name": "laughing-fit",
+	"color": "#30CBCC",
+	"customValues": {}
+}

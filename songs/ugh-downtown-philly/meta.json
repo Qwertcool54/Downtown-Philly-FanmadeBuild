@@ -1,0 +1,18 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 200,
+	"difficulties": [
+		"ALT",
+		"HARD"
+	],
+	"needsVoices": false,
+	"parsedColor": -7376387,
+	"displayName": "ugh-downtown-philly",
+	"icon": "tankman",
+	"name": "ugh-downtown-philly",
+	"color": "#8F71FD",
+	"customValues": {}
+}

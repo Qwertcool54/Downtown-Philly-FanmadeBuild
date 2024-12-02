@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 123,
+	"difficulties": [
+		"DOWNTOWN-PHILLY"
+	],
+	"needsVoices": true,
+	"parsedColor": -7179779,
+	"displayName": "bopeebo-downtown-philly",
+	"icon": "dad",
+	"name": "bopeebo-downtown-philly",
+	"color": "#9271FD",
+	"customValues": {}
+}

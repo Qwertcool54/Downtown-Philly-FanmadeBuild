@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character y="350" sprite="bf-invert" flipX="true" isPlayer="true" icon="bf-invert" color="#CE4B30">
-	<anim name="idle" anim="BF idle dance" x="0" y="0" fps="24" loop="false"/>
-	<anim name="singUP" anim="BF NOTE UP0" x="-46" y="19" fps="24" loop="false"/>
-	<anim name="singLEFT" anim="BF NOTE LEFT0" x="5" y="-15" fps="24" loop="false"/>
-	<anim name="singRIGHT" anim="BF NOTE RIGHT0" x="-45" y="-14" fps="24" loop="false"/>
-	<anim name="singDOWN" anim="BF NOTE DOWN0" x="-10" y="-59" fps="24" loop="false"/>
-</character>

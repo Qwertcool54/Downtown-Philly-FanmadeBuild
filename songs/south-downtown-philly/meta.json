@@ -1,0 +1,18 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 177,
+	"difficulties": [
+		"NORMAL",
+		"ALT"
+	],
+	"needsVoices": true,
+	"parsedColor": -12500671,
+	"displayName": "south-downtown-philly",
+	"icon": "spooky",
+	"name": "south-downtown-philly",
+	"color": "#414141",
+	"customValues": {}
+}

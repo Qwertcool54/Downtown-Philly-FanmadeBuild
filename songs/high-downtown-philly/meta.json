@@ -1,0 +1,19 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 134,
+	"difficulties": [
+		"HARD",
+		"NORMAL",
+		"ALT"
+	],
+	"needsVoices": true,
+	"parsedColor": -167513,
+	"displayName": "high-downtown-philly",
+	"icon": "mom",
+	"name": "high-downtown-philly",
+	"color": "#FD71A7",
+	"customValues": {}
+}
