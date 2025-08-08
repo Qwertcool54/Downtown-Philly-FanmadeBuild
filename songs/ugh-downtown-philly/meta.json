@@ -1,18 +1,21 @@
 {
-	"beatsPerMeasure": 4,
 	"opponentModeAllowed": true,
-	"coopAllowed": true,
-	"stepsPerBeat": 4,
-	"bpm": 200,
 	"difficulties": [
 		"ALT",
-		"HARD"
+		"HARD",
+		"cool-rechart"
 	],
-	"needsVoices": false,
-	"parsedColor": -7376387,
-	"displayName": "ugh-downtown-philly",
 	"icon": "tankman",
+	"parsedColor": -7376387,
+	"coopAllowed": true,
 	"name": "ugh-downtown-philly",
-	"color": "#8F71FD",
-	"customValues": {}
+	"color": "#000000",
+	"customValues": {
+		"composer": "sealsbite and DaThugWizard"
+	},
+	"stepsPerBeat": 4,
+	"displayName": "ugh-downtown-philly",
+	"needsVoices": false,
+	"beatsPerMeasure": 4,
+	"bpm": 200
 }

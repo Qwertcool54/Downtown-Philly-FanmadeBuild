@@ -15,5 +15,7 @@
 	"icon": "mom",
 	"name": "high-downtown-philly",
 	"color": "#FD71A7",
-	"customValues": {}
+	"customValues": {
+		"composer": "sealsbite"
+	}
 }

@@ -13,5 +13,7 @@
 	"icon": "dad",
 	"name": "bopeebo-downtown-philly",
 	"color": "#9271FD",
-	"customValues": {}
+	"customValues": {
+		"composer": "sealsbite and DaThugWizard"
+	}
 }

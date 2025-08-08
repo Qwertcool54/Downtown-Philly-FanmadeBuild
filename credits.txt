@@ -1,14 +1,10 @@
-Fanmade Build - by me
-
+Fanmade Build and base game hud - by me
+spookeez remix chart - jason73937
 Special thanks:
-new hold - from mario madness v2 cne port
-result screen from fnf 0.3.x - by betpowo
-hold splash - supergaymario
 charts (and some assets) - from https://gamebanana.com/mods/466028 and https://gamebanana.com/mods/486635
-c-slice - by swordcube.gov
-TimeBar - from https://gamebanana.com/tools/16673
 OG DownTown Philly Devs - make songs
 accelerant hank assets - from https://github.com/AppleHair/HankPsychPort/releases
-Weekend 1 Assets - from https://github.com/FNF-CNE-Devs/V-Slice-Modpack/tree/main
-camera folllow - by sandpaperbutbetter
-health drain - by gla90l
+Weekend 1 Assets - from https://github.com/FNF-CNE-Devs/V-Slice-Modpack/tree/main (official codename's v-slice modpack)
+events pack - itsljcool
+sticker transition - techniktil
+top 10 hud script/friday night maker hud - uhh... he deleted account

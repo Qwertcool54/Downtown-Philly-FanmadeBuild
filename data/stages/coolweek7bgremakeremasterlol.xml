@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/coolweek7bgremakeremasterlol/" name="coolweek7bgremakeremasterlol">
+	<sprite x="4554.15541874268" sprite="week7bg" y="-46.6690913613291" type="none" skewx="3.73353408389583" scalex="1.47554052577073" scaley="0.924115298599465" name="week7bg"/>
+	<dad x="4850.20758160122" y="503.706108476489" scalex="2.04545653649824" scaley="0.214430762576655" angle="0.438011934139965"/>
+	<girlfriend x="744.308037912789" angle="-nan(ind)" y="535.041184699871"/>
+	<boyfriend scalex="3.15943854953144" x="5908.56371968221" scaley="0.592233009708782" y="282.021021865534"/>
+</stage>

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage scrollspeed="1" folder="stages/" name="mindbg" zoom="0.7">
+	<sprite x="-1400" scrolly="0.1" sprite="mindbg/sky" y="-1100" name="sky" scrollx="0.1"/>
+	<sprite x="-470" scrolly="0.25" sprite="mindbg/bgcity" y="400" name="bgcity" scrollx="0.25"/>
+	<sprite x="-300" scrolly="0.8" sprite="mindbg/thing" y="200" name="thing" scrollx="0.8"/>
+	<sprite x="-450" scrolly="0.7" sprite="mindbg/fog" y="-500" name="fog" scrollx="0.7"/>
+	<sprite scrolly="0.97" x="-550" y="1040" sprite="mindbg/train" scrollx="0.97" name="train"/>
+	<sprite x="-600" name="overlay" sprite="mindbg/overlay" y="-200"/>
+	<gf scrolly="1" x="460" scrollx="1" y="485"/>
+	<dad x="150" y="520"/>
+	<bf x="980" y="480"/>
+	<combo/>
+</stage>

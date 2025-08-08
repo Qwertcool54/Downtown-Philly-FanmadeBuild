@@ -1,1 +1,6 @@
-Here's where you'll put the shaders. yeahman
+GUESS WHAT GOES INTO THIS FOLDER
+GUESS WHAT
+
+SHADERSSSSSS
+
+(.frag or .vert)

@@ -3,9 +3,10 @@
 	"opponentModeAllowed": true,
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
-	"bpm": 100,
+	"bpm": 170,
 	"difficulties": [
-		"DOWNTOWN-PHILLY"
+		"hard",
+		"downtown-philly"
 	],
 	"needsVoices": true,
 	"parsedColor": -6028164,
@@ -13,5 +14,7 @@
 	"icon": "brother",
 	"name": "omnipotent",
 	"color": "#A4047C",
-	"customValues": {}
+	"customValues": {
+		"composer": "sealsbite"
+	}
 }

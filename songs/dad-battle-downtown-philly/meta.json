@@ -15,5 +15,7 @@
 	"icon": "dad",
 	"name": "dad-battle-downtown-philly",
 	"color": "#9271FD",
-	"customValues": {}
+	"customValues": {
+		"composer": "sealsbite and DATHugWizard"
+	}
 }

@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="ALUCARD_ALT" icon="alucard" color="#ff0000" x="-50" y="150" camx="40" camy="20" holdTime="4.1">
+	<anim name="idle" anim="Idle0" indices="0..13"/>
+	<anim name="singLEFT" anim="Left0" x="54" y="-1"/>
+	<anim name="singDOWN" anim="Down0" x="-3" y="13"/>
+	<anim name="singUP" anim="Up0" x="42" y="40"/>
+	<anim name="singRIGHT" anim="Right0" x="-12" y="1" indices="0..3"/>
+	<anim name="idle-loop" anim="Idle0" loop="true" indices="10..18"/>
+	<anim name="singLEFT-loop" anim="Left0" x="54" y="-1" loop="true" indices="2..4"/>
+	<anim name="singDOWN-loop" anim="Down0" x="-3" y="13" loop="true" indices="2..4"/>
+	<anim name="singUP-loop" anim="Up0" x="42" y="40" loop="true" indices="2..4"/>
+	<anim name="singRIGHT-loop" anim="Right0" x="-12" y="1" loop="true" indices="2..4"/>
+	<anim name="done" anim="Done" x="15" y="-8" fps="23" indices="22..33"/>
+</character>

@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="AdventureSonic" icon="sonic" color="#051eb2" x="50" holdTime="6.1">
+	<anim name="singLEFT" anim="LEFT" x="134" y="-49"/>
+	<anim name="singDOWN" anim="DOWN" x="22" y="-40"/>
+	<anim name="singUP" anim="UP" x="-26" y="44"/>
+	<anim name="singRIGHT" anim="RIGHT" x="-28" y="25"/>
+	<anim name="idle" anim="IDLE0"/>
+	<anim name="idle-alt" anim="IDLE-ALT"/>
+	<anim name="idle-alt-evil" anim="IDLE-ALT" loop="true" indices="12,13"/>
+</character>

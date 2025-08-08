@@ -13,5 +13,8 @@
 	"icon": "darnell",
 	"name": "darnell",
 	"color": "#715EAE",
-	"customValues": {}
+	"customValues": {
+		"stickerPack": "bonus-weekend1",
+		"composer": "rxdialbeat, sealsbite, DAThugWizard"
+	}
 }

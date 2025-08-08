@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "alucard",
+	"difficulties": [
+		"HARD"
+	],
+	"customValues": {
+		"composer": "BunchieMusic and sealsbite"
+	},
+	"color": -7179779,
+	"name": "experiment",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "experiment",
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}

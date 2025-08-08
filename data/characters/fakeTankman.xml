@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character y="180" sprite="FakeTankman" icon="Tankman" color="#000000">
+	<anim name="idle" anim="Idle" fps="100" loop="true"/>
+	<anim name="singDOWN" anim="Sing Down" x="75" y="-105" fps="100" loop="true"/>
+	<anim name="singRIGHT" anim="Sing Right" x="-24" y="-13" fps="100" loop="true"/>
+	<anim name="singLEFT" anim="Sing Left" x="92" y="-28" fps="100" loop="true"/>
+	<anim name="singUP" anim="Sing Up" x="27" y="53" fps="100" loop="true"/>
+	<anim name="Ugh" anim="Ugh" x="-13" y="-9" fps="100" loop="true"/>
+</character>

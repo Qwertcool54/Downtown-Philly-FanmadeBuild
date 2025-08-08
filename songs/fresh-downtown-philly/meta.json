@@ -13,5 +13,7 @@
 	"icon": "dad",
 	"name": "fresh-downtown-philly",
 	"color": "#9271FD",
-	"customValues": {}
+	"customValues": {
+		"composer": "_itsrequiem, sealsbite, DaThugWizard"
+	}
 }

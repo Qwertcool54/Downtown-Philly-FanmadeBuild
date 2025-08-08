@@ -3,7 +3,7 @@
 	"opponentModeAllowed": true,
 	"coopAllowed": true,
 	"stepsPerBeat": 4,
-	"bpm": 100,
+	"bpm": 220,
 	"difficulties": [
 		"DOWNTOWN-PHILLY",
 		"ALT"
@@ -14,5 +14,7 @@
 	"icon": "hank",
 	"name": "lock-jaw",
 	"color": "#16162C",
-	"customValues": {}
+	"customValues": {
+		"composer": "PinkiMiki and DaThugWizard"
+	}
 }

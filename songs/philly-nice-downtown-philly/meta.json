@@ -5,7 +5,7 @@
 	"stepsPerBeat": 4,
 	"bpm": 175,
 	"difficulties": [
-		"DOWNTOWN-PHILLY"
+		"Hard"
 	],
 	"needsVoices": true,
 	"parsedColor": -4728747,
@@ -13,5 +13,7 @@
 	"icon": "pico",
 	"name": "philly-nice-downtown-philly",
 	"color": "#B7D855",
-	"customValues": {}
+	"customValues": {
+		"composer": "sealsbite"
+	}
 }

@@ -15,5 +15,7 @@
 	"icon": "pico",
 	"name": "blammed-downtown-philly",
 	"color": "#B7D855",
-	"customValues": {}
+	"customValues": {
+		"composer": "rxdialbeat and sealsbite"
+	}
 }

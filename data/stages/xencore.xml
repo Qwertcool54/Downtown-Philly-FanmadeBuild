@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage scrollspeed="1" folder="stages/" name="xencore" zoom="0.9">
+	<sprite x="-200" sprite="cycles/sky" y="-400" scale="1.6" name="sky"/>
+	<sprite x="-300" sprite="cycles/mountains" y="-200" scale="1.6" name="mountains"/>
+	<sprite x="-600" sprite="cycles/ground" y="500" scale="1.5" name="ground"/>
+	<sprite x="-600" sprite="cycles/fog" y="200" scale="1.4" name="fog"/>
+	<sprite x="200" sprite="cycles/clouds" y="-250" name="clouds"/>
+	<gf x="430" scroll="1" y="1300"/>
+	<dad x="60"/>
+	<bf x="1050" y="-50"/>
+</stage>

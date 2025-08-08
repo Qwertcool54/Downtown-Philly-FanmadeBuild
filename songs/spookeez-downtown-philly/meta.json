@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 100,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -14535868,
+	"displayName": "spookeez-downtown-philly",
+	"icon": "spooky",
+	"name": "spookeez-downtown-philly",
+	"color": "#223344",
+	"customValues": {
+		"stickerPack": "standard-bf",
+		"composer": "idk, literally"
+	}
+}

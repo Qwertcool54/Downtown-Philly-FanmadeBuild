@@ -5,7 +5,7 @@
 	"stepsPerBeat": 4,
 	"bpm": 100,
 	"difficulties": [
-		"DOWNTOWN-PHILLY"
+		"HARD"
 	],
 	"needsVoices": true,
 	"parsedColor": -6028164,
@@ -13,5 +13,7 @@
 	"icon": "brother",
 	"name": "mad",
 	"color": "#A4047C",
-	"customValues": {}
+	"customValues": {
+		"composer": "BunchieMusic and sealsbite"
+	}
 }

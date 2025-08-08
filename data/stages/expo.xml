@@ -10,6 +10,6 @@
 	<girlfriend x="490"/>
 	<dad x="190" y="130"/>
 	<boyfriend x="960" y="130"/>
-	<sprite x="-205" y="685" sprite="crowdbump" type="loop" scale="1.5" name="fans"/>
+	<sprite x="-197" y="760" sprite="crowdbump" type="loop" scale="1.5" name="fans"/>
 	<combo x="1025" y="121"/>
 </stage>

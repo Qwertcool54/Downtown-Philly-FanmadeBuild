@@ -14,5 +14,7 @@
 	"icon": "spooky",
 	"name": "south-downtown-philly",
 	"color": "#414141",
-	"customValues": {}
+	"customValues": {
+		"composer": "sealsbite and DaThugWizard"
+	}
 }

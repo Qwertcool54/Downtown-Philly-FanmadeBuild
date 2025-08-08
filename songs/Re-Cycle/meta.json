@@ -1,0 +1,18 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "sonic",
+	"difficulties": [
+		"HARD",
+		"NORMAL"
+	],
+	"customValues": {
+		"composer": "sealsbite"
+	},
+	"color": -16441678,
+	"name": "Re-Cycle",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Re-Cycle",
+	"beatsPerMeasure": 4,
+	"bpm": 154
+}

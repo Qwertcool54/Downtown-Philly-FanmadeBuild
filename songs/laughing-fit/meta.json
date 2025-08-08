@@ -14,5 +14,7 @@
 	"icon": "miku",
 	"name": "laughing-fit",
 	"color": "#30CBCC",
-	"customValues": {}
+	"customValues": {
+		"composer": "sealsbite"
+	}
 }

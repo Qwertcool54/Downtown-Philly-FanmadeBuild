@@ -13,5 +13,7 @@
 	"icon": "beta",
 	"name": "just-like-me",
 	"color": "#E7FF48",
-	"customValues": {}
+	"customValues": {
+		"composer": "BunchieMusic"
+	}
 }

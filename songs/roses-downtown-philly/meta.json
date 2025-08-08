@@ -15,5 +15,7 @@
 	"icon": "senpai",
 	"name": "roses-downtown-philly",
 	"color": "#FFAA6F",
-	"customValues": {}
+	"customValues": {
+		"composer": "sealsbite"
+	}
 }
